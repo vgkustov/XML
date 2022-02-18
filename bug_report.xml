@@ -5,6 +5,8 @@
   <bug_STR>Открыть главную страницу сайта</bug_STR>
   <bug_severity>Low</bug_severity>
   <bug_priority>High</bug_priority>
-  <OS>Windows 10</OS>
-  <browser>Chrome, latest<browser>
+  <envinonment>
+    <OS>Windows 10</OS>
+    <browser>Chrome, latest<browser>
+  </environment>
 </bug_report>
