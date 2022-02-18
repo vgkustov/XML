@@ -1,0 +1,10 @@
+<bug_report>
+  <bug_id>1_front</bug_id>
+  <bug_header>На главной станице на отображается логотип компании</bug_header>
+  <bug_descr>При открытии главной страницы на загружается изображение с логотоипом сайта. Файл с изображением отсутствует на сервере</bug_descr>
+  <bug_STR>Открыть главную страницу сайта</bug_STR>
+  <bug_severity>Low</bug_severity>
+  <bug_priority>High</bug_priority>
+  <OS>Windows 10</OS>
+  <browser>Chrome, latest<browser>
+</bug_report>
